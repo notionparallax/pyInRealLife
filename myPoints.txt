@@ -1,0 +1,10 @@
+653.0000, 105.0000, Peanut
+814.0000, 40.0000, Pinnacle
+919.0000, 266.0000, Pinnacle
+670.0000, 701.0000, Pumpernickel
+885.0000, 42.0000, Pumpernickel
+532.0000, 758.0000, Pinnacle
+822.0000, 169.0000, Pumpkin
+898.0000, 102.0000, Pumpkin
+86.0000, 29.0000, Pumpkin
+665.0000, 224.0000, Pumpernickel
